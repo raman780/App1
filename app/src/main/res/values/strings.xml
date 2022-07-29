@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="welcome_to_north_indian_restraunt">Welcome to North indian Restraunt</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item3">Item3</string>
+    <string name="place_order">Place Order</string>
+</resources>
