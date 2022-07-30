@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void placeOrder(View view){
+    public void placeOrder(View view) {
         /*
           We will handle the click on the place order button here
           Build an intent to open another activity

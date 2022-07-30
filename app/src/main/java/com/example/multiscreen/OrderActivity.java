@@ -13,7 +13,7 @@ public class OrderActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_order);
 
-        Intent intent  = getIntent();
+        Intent intent = getIntent();
         String message = intent.getStringExtra(MainActivity.MSG);
 
         //Set Text inside textview to message
